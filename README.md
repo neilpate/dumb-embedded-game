@@ -6,11 +6,23 @@ The basic idea (for now) is to use the built in accelerometer on the discovery b
 
 Some general tasks:
 
+**PC**
 - [ ] Godot rolling ball prototype
+- [ ] Comms to STM32
+
+**Embedded**
+- [ ] Refresher on setup of rust toolchain for STM32
 - [ ] Accelerometer SPI comms
-- [ ] Comms between the micro and Godot
+- [ ] Comms to PC
+- [ ] Digital input for button
+- [ ] SPI comms for DAC
+- [ ] 2D display?
+
+**Electronics**
 - [ ] Simple buzzer sound effects circuit
 - [ ] DAC circuit
 - [ ] Analogue amplification to drive a speaker
+- [ ] Button to reset the game
+- [ ] 2D disply?
 
 
